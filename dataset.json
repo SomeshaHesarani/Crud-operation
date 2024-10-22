@@ -1,0 +1,70 @@
+[
+    {   "id":"1",
+        "name": "Alice Smith",
+        "address": "123 Maple St, Springfield, IL",
+        "number": "555-1234",
+        "age": 28
+    },
+    {
+        "id":"2",
+        "name": "Bob Johnson",
+        "address": "456 Oak St, Springfield, IL",
+        "number": "555-5678",
+        "age": 34
+    },
+    {
+        "id":"4",
+        "name": "Charlie Brown",
+        "address": "789 Pine St, Springfield, IL",
+        "number": "555-8765",
+        "age": 22
+    },
+    {
+        "id":"5",
+        "name": "Diana Prince",
+        "address": "101 Elm St, Springfield, IL",
+        "number": "555-4321",
+        "age": 30
+    },
+    {
+        "id":"6",
+        "name": "Ethan Hunt",
+        "address": "202 Birch St, Springfield, IL",
+        "number": "555-2468",
+        "age": 36
+    },
+    {
+        "id":"7",
+        "name": "Fiona Green",
+        "address": "303 Cedar St, Springfield, IL",
+        "number": "555-1357",
+        "age": 25
+    },
+    {
+        "id":"8",
+        "name": "George Clark",
+        "address": "404 Spruce St, Springfield, IL",
+        "number": "555-3579",
+        "age": 40
+    },
+
+    {"id":"9",
+        "name": "Hannah Adams",
+        "address": "505 Fir St, Springfield, IL",
+        "number": "555-1597",
+        "age": 29
+    },
+    
+    {"id":"10",
+        "name": "Isaac Newton",
+        "address": "606 Willow St, Springfield, IL",
+        "number": "555-8642",
+        "age": 31
+    },
+    {
+        "name": "Jack Daniels",
+        "address": "707 Ash St, Springfield, IL",
+        "number": "555-7531",
+        "age": 27
+    }
+]
